@@ -1,0 +1,94 @@
+* {
+    margin-top: 1px;
+    /* padding: 0; */
+  }
+body { color: white;
+    background:url(Images/ugly_background.jpg);
+    text-align: center }
+
+.Image{
+    width: 25%;
+    float: left;
+    /* padding-top: 10%; */
+}
+img{
+    width: 50%;
+    height:auto;
+    float: right;
+}
+
+
+
+.information {
+    width: 50%;
+    float: left;
+}
+
+.Sidebar{
+    width: 22%;
+    float: right;
+    margin-right: 1%;
+    border-radius: 25px;
+    border: 2px solid efefef;
+}
+
+.Title{
+    color:#49b7d8;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-weight: bold;
+    font-size: 3em
+}
+
+.pinfo{
+    color: #a17f1d;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: 1/2em
+}
+
+.bar{
+    background-color:red;
+    width: 40%;
+    margin-left: 30%;
+    padding-top:5;
+    padding-bottom:5;
+}
+
+.nav li{
+    display: inline;
+    padding-right: 9%;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: 1.2em;
+    color: white;
+    
+  }
+
+.History{
+    color: #b6819b;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    width: 90%;
+    margin-left: 5%;
+    font-size: 1.1em;
+}
+
+.Offer{
+    color: red;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    width: 50%;
+    margin-left: 25%;
+    font-size: 1.1em;
+}
+
+.highlights li{
+    padding-bottom: 9%;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: 1.5em;
+    color: chartreuse;
+}
+
+.HighTitle {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: 1.5em;
+    color: chartreuse;
+
+
+}

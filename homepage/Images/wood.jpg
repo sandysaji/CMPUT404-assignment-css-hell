@@ -1,0 +1,736 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<!--
+##########################################################################################
+
+BROOKLYN THEME BY UNITED THEMES 
+WWW.UNITEDTHEMES.COM
+
+BROOKLYN THEME DESIGNED BY MARCEL MOERKENS
+BROOKLYN THEME DEVELOPED BY MARCEL MOERKENS & MATTHIAS NETTEKOVEN 
+
+POWERED BY UNITED THEMES - WEB DEVELOPMENT FORGE EST.2011
+
+COPYRIGHT 2011 - 2015 ALL RIGHTS RESERVED BY UNITED THEMES
+
+##########################################################################################
+-->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+    
+        
+        
+    		
+        <!-- Title -->
+        
+
+	    
+    <!-- RSS & Pingbacks -->
+	<link rel="pingback" href="http://www.26brewing.com/xmlrpc.php" />
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    
+    <!-- Favicon -->
+	        
+                        
+        <link rel="shortcut&#x20;icon" href="http://www.26brewing.com/wp-content/uploads/2015/09/favicon.ico" type="image/x-icon" />
+        <link rel="icon" href="http://www.26brewing.com/wp-content/uploads/2015/09/favicon.ico" type="image/x-icon" />
+        
+        
+    <!-- Apple Touch Icons -->    
+        <link rel="apple-touch-icon" href="http://www.26brewing.com/wp-content/uploads/2015/09/favicon.ico">
+        
+        <link rel="apple-touch-icon" sizes="72x72" href="http://www.26brewing.com/wp-content/uploads/2015/09/favicon.ico" />
+        
+        <link rel="apple-touch-icon" sizes="114x114" href="http://www.26brewing.com/wp-content/uploads/2015/09/favicon.ico" />
+        
+        <link rel="apple-touch-icon" sizes="144x144" href="http://www.26brewing.com/wp-content/uploads/2015/09/favicon.ico" />
+            
+    <!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]--> 
+    	
+    				<script type='text/javascript' src='http://www.26brewing.com/wp-includes/js/jquery/jquery.js'></script>
+				<script type='text/javascript' src='http://www.26brewing.com/wp-content/plugins/adults-only/js/adultsonly.js?ver=3.6.1'></script>
+				<script type='text/javascript'>
+					var adults_only = {
+						"validation_text": {"day":"Day is invalid. Please use this format: DD","month":"Month is invalid. Please use this format: MM","year":"Year is invalid. Please use this format: YYYY"},
+						"age" : "21",
+						"default_to_minimum": ""
+					};
+				</script>
+				
+<!-- This site is optimized with the Yoast SEO plugin v9.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>large-wood-piece | 26º Brewing Company</title>
+<link rel="canonical" href="http://www.26brewing.com/our-mission-2/crowds-at-the-bar/beer-shields/large-wood-piece/#main" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="large-wood-piece | 26º Brewing Company" />
+<meta property="og:description" content="large-wood-piece September 27th, 2016Michael" />
+<meta property="og:url" content="http://www.26brewing.com/our-mission-2/crowds-at-the-bar/beer-shields/large-wood-piece/#main" />
+<meta property="og:site_name" content="26º Brewing Company" />
+<meta property="og:image" content="https://i2.wp.com/www.26brewing.com/wp-content/uploads/2016/09/Large-wood-Piece.jpg?fit=1920%2C1244" />
+<meta property="og:image:secure_url" content="https://i2.wp.com/www.26brewing.com/wp-content/uploads/2016/09/Large-wood-Piece.jpg?fit=1920%2C1244" />
+<meta property="og:image:width" content="1920" />
+<meta property="og:image:height" content="1244" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="large-wood-piece September 27th, 2016Michael" />
+<meta name="twitter:title" content="large-wood-piece | 26º Brewing Company" />
+<meta name="twitter:image" content="http://www.26brewing.com/wp-content/uploads/2016/09/Large-wood-Piece.jpg" />
+<script type='application/ld+json'>{"@context":"https://schema.org","@type":"Organization","url":"http://www.26brewing.com/","sameAs":[],"@id":"http://www.26brewing.com/#organization","name":"26\u00b0 Brewing Company","logo":"http://www.26brewing.com/wp-content/uploads/2015/09/26degrees-logo-1-e1442328531377.png"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="26º Brewing Company &raquo; Feed" href="http://www.26brewing.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="26º Brewing Company &raquo; Comments Feed" href="http://www.26brewing.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.26brewing.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.2"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='mediaelement-css'  href='http://www.26brewing.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.13-9993131' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='http://www.26brewing.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ut-flexslider-css'  href='http://www.26brewing.com/wp-content/themes/brooklyn/css/flexslider.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ut-portfolio-css'  href='http://www.26brewing.com/wp-content/themes/brooklyn-child/css/ut.portfolio.style.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ut-prettyphoto-css'  href='http://www.26brewing.com/wp-content/plugins/ut-portfolio/assets/css/plugins/prettyphoto/prettyPhoto.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ut-fontawesome-css'  href='http://www.26brewing.com/wp-content/plugins/ut-pricing/assets/css/font-awesome.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ut-responsive-grid-css'  href='http://www.26brewing.com/wp-content/plugins/ut-pricing/assets/css/ut-responsive-grid.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ut-table-css'  href='http://www.26brewing.com/wp-content/plugins/ut-pricing/assets/css/ut.table.style.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ut-animate-css'  href='http://www.26brewing.com/wp-content/plugins/ut-shortcodes/css/ut.animate.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ut-elastislide-css'  href='http://www.26brewing.com/wp-content/plugins/ut-shortcodes/css/ut.elastislide.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ut-fancyrotator-css'  href='http://www.26brewing.com/wp-content/plugins/ut-shortcodes/css/ut.fancyrotator.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ut-shortcodes-css'  href='http://www.26brewing.com/wp-content/themes/brooklyn-child/css/ut.shortcode.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ut-twitter-css'  href='http://www.26brewing.com/wp-content/plugins/ut-twitter/css/ut.twitter.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://www.26brewing.com/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.26brewing.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://www.26brewing.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.8.3' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel='stylesheet' id='css-font-awesome-css'  href='http://www.26brewing.com/wp-content/plugins/tiva-facebook-events-calendar/assets/css/font-awesome.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='css-calendar-css'  href='http://www.26brewing.com/wp-content/plugins/tiva-facebook-events-calendar/assets/css/calendar.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='css-calendar-full-css'  href='http://www.26brewing.com/wp-content/plugins/tiva-facebook-events-calendar/assets/css/calendar_full.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='css-calendar-compact-css'  href='http://www.26brewing.com/wp-content/plugins/tiva-facebook-events-calendar/assets/css/calendar_compact.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='main-font-face-css'  href='http://www.26brewing.com/wp-content/themes/brooklyn/css/ut-fontface.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ut-superfish-css'  href='http://www.26brewing.com/wp-content/themes/brooklyn/css/ut-superfish.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='unitedthemes-style-css'  href='http://www.26brewing.com/wp-content/themes/brooklyn-child/style.css?ver=2.8.8' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://www.26brewing.com/wp-content/plugins/jetpack/css/jetpack.css?ver=7.1.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.26brewing.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://www.26brewing.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.26brewing.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8.3'></script>
+<script type='text/javascript' src='http://www.26brewing.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8.3'></script>
+<script type='text/javascript' src='http://www.26brewing.com/wp-content/plugins/ut-portfolio/assets/js/jquery.isotope.min.js?ver=1.8'></script>
+<script type='text/javascript' src='http://www.26brewing.com/wp-content/plugins/ut-portfolio/assets/js/jquery.lazy.load.js?ver=1.9.1'></script>
+<script type='text/javascript' src='http://www.26brewing.com/wp-content/plugins/ut-shortcodes/js/plugins/modernizr/modernizr.min.js?ver=2.6.2'></script>
+<script type='text/javascript' src='http://www.26brewing.com/wp-content/plugins/ut-shortcodes/js/plugins/flexslider/jquery.flexslider-min.js?ver=5.3.2'></script>
+<script type='text/javascript' src='http://www.26brewing.com/wp-content/plugins/ut-shortcodes/js/plugins/elastislider/jquery.elastislide.js?ver=5.3.2'></script>
+<script type='text/javascript' src='http://www.26brewing.com/wp-content/plugins/jetpack/_inc/build/spin.min.js?ver=1.3'></script>
+<script type='text/javascript' src='http://www.26brewing.com/wp-content/plugins/jetpack/_inc/build/jquery.spin.min.js?ver=1.3'></script>
+<link rel='https://api.w.org/' href='http://www.26brewing.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.26brewing.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.26brewing.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://wp.me/a7V5bu-WZ' />
+<link rel="alternate" type="application/json+oembed" href="http://www.26brewing.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.26brewing.com%2Four-mission-2%2Fcrowds-at-the-bar%2Fbeer-shields%2Flarge-wood-piece%2F%23main" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.26brewing.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.26brewing.com%2Four-mission-2%2Fcrowds-at-the-bar%2Fbeer-shields%2Flarge-wood-piece%2F%23main&#038;format=xml" />
+<link rel="alternate" type="application/rss+xml" title="26º Brewing Company GeoRSS-Feed" href="http://www.26brewing.com/wp-content/plugins/leaflet-maps-marker/leaflet-georss.php?layer=all" />
+
+            <!-- Facebook Pixel Code -->
+            <script>
+            !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+            n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+            fbq('init', '1518356688190481');
+            fbq('track', 'PageView');</script>
+            <noscript><img height='1' width='1' style='display:none'
+            src='https://www.facebook.com/tr?id=1556124141356092&ev=PageView&noscript=1'
+            /></noscript>
+            <!-- End Facebook Pixel Code -->
+            
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<link rel='dns-prefetch' href='//i0.wp.com'/>
+<link rel='dns-prefetch' href='//i1.wp.com'/>
+<link rel='dns-prefetch' href='//i2.wp.com'/>
+<style type='text/css'>img#wpstats{display:none}</style><style type="text/css">::-moz-selection{ background: #FED34E; }::selection { background:#FED34E; }a, .ha-transparent #navigation ul li a:hover { color: #FED34E; }.ut-language-selector a:hover { color: #FED34E; }.ut-custom-icon-link:hover i { color: #FED34E !important; }.ut-hide-member-details:hover, #ut-blog-navigation a:hover, .light .ut-hide-member-details, .ut-mm-button:hover:before, .ut-mm-trigger.active .ut-mm-button:before, .ut-mobile-menu a:after { color: #FED34E; }.ut-header-light .ut-mm-button:before { color: #FED34E; }.lead span, .entry-title span, #cancel-comment-reply-link, .member-description-style-3 .ut-member-title,.ut-twitter-rotator h2 a, .themecolor{ color: #FED34E; }.icons-ul i, .comments-title span, .member-social a:hover, .ut-parallax-quote-title span, .ut-member-style-2 .member-description .ut-member-title { color:#FED34E; }.about-icon, .ut-skill-overlay, .ut-dropcap-one, .ut-dropcap-two, .ut-mobile-menu a:hover, .themecolor-bg, .ut-btn.ut-pt-btn:hover, .ut-btn.dark:hover { background:#FED34E; }blockquote, div.wpcf7-validation-errors, .ut-hero-style-5 .hero-description, #navigation ul.sub-menu, .ut-member-style-3 .member-social a:hover { border-color:#FED34E; }.cta-section, .ut-btn.theme-btn, .ut-social-link:hover .ut-social-icon, .ut-member-style-2 .ut-so-link:hover { background:#FED34E !important; }.ut-social-title, .ut-service-column h3 span, .ut-rq-icon{ color:#FED34E; }.count, .ut-icon-list i { color:#FED34E; }.client-section, .ut-portfolio-pagination.style_two a.selected:hover, .ut-portfolio-pagination.style_two a.selected, .ut-portfolio-pagination.style_two a:hover, .ut-pt-featured { background:#FED34E !important; }ins, mark, .ut-alert.themecolor, .ut-portfolio-menu.style_two li a:hover, .ut-portfolio-menu.style_two li a.selected, .light .ut-portfolio-menu.style_two li a.selected:hover { background:#FED34E; }.footer-content i { color:#FED34E; }.copyright a:hover, .footer-content a:hover, .toTop:hover, .ut-footer-dark a.toTop:hover { color:#FED34E; }blockquote span { color:#FED34E; }.entry-meta a:hover, #secondary a:hover, .page-template-templatestemplate-archive-php a:hover { color:#FED34E; }h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, .ut-header-dark .site-logo .logo a:hover { color:#FED34E; }a.more-link:hover, .fa-ul li .fa{ color:#FED34E; }.ut-pt-featured-table .ut-pt-info .fa-li{ color: #FED34E !important; }.button, input[type="submit"], input[type="button"], .dark button, .dark input[type="submit"], .dark input[type="button"], .light .button, .light input[type="submit"], .light input[type="button"] { background:#FED34E; }.img-hover { background:rgb(254,211,78);background:rgba(254,211,78, 0.85); }.portfolio-caption { background:rgb(254,211,78);background:rgba(254,211,78, 0.85); }.team-member-details { background:rgba(254,211,78, 0.85 ); }.ut-avatar-overlay { background:rgb(254,211,78); background:rgba(254,211,78, 0.85 ); }.mejs-controls .mejs-time-rail .mejs-time-current, .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current, .format-link .entry-header a { background:#FED34E !important; }.light .ut-portfolio-menu li a:hover, .light .ut-portfolio-pagination a:hover, .light .ut-nav-tabs li a:hover, .light .ut-accordion-heading a:hover { border-color:#FED34E !important; }.light .ut-portfolio-menu li a:hover, .light .ut-portfolio-pagination a:hover, .ut-portfolio-list li strong, .light .ut-nav-tabs li a:hover, .light .ut-accordion-heading a:hover, .ut-custom-icon a:hover i:first-child { color:#FED34E !important; }.ut-portfolio-gallery-slider .flex-direction-nav a, .ut-gallery-slider .flex-direction-nav a, .ut-rotate-quote-alt .flex-direction-nav a, .ut-rotate-quote .flex-direction-nav a{ background:rgb(254,211,78); background:rgba(254,211,78, 0.85); }.light .ut-bs-wrap .entry-title a:hover, .light .ut-bs-wrap a:hover .entry-title{ color: #FED34E; }.ut-rated i { color: #FED34E; }.ut-footer-area ul.sidebar a:hover { color: #FED34E; }.ut-footer-dark .ut-footer-area .widget_tag_cloud a:hover { color: #FED34E!important; }.ut-footer-dark .ut-footer-area .widget_tag_cloud a:hover { border-color: #FED34E; }.elastislide-wrapper nav span:hover { border-color: #FED34E; }.elastislide-wrapper nav span:hover { color: #FED34E; }.ut-footer-so li a:hover { border-color: #FED34E; }.ut-footer-so li a:hover i { color: #FED34E!important; }.ut-pt-wrap.ut-pt-wrap-style-2 .ut-pt-featured-table .ut-pt-header { background:#FED34E; }.ut-pt-wrap-style-3 .ut-pt-info ul li, .ut-pt-wrap-style-3 .ut-pt-info ul, .ut-pt-wrap-style-3 .ut-pt-header, .ut-pt-wrap-style-3 .ut-btn.ut-pt-btn, .ut-pt-wrap-style-3 .ut-custom-row, .ut-pt-wrap-style-3 .ut-pt-featured-table .ut-btn { border-color:rgba(254,211,78, 0.1); }.ut-pt-wrap-style-3 .ut-btn { color:#FED34E !important; }.ut-pt-wrap-style-3 .ut-btn { text-shadow: 0 0 40px #FED34E, 2px 2px 3px black; }.ut-pt-wrap-style-3 .ut-pt-featured-table .ut-btn { color:#FED34E !important; }.ut-pt-wrap-style-3 .ut-pt-featured-table .ut-btn { text-shadow: 0 0 40px #FED34E, 2px 2px 3px black; }.ut-pt-wrap-style-3 .ut-pt-featured-table .ut-pt-title { color:#FED34E !important; }.ut-pt-wrap-style-3 .ut-pt-featured-table .ut-pt-title { text-shadow: 0 0 40px #FED34E, 2px 2px 3px black; }.ut-glow {color:#FED34E;text-shadow:0 0 40px #FED34E, 2px 2px 3px black; }.light .ut-shortcode-video-wrap .ut-video-caption { border-color:rgba(254,211,78, 1); }.light .ut-shortcode-video-wrap .ut-video-caption i { border-color:rgba(254,211,78, 0.3); }.light .ut-shortcode-video-wrap .ut-video-caption i { color:rgba(254,211,78, 0.3); }.light .ut-shortcode-video-wrap .ut-video-caption:hover i { border-color:rgba(254,211,78, 1); }.light .ut-shortcode-video-wrap .ut-video-caption:hover i { color:#FED34E !important; }.light .ut-shortcode-video-wrap .ut-video-caption:hover i { text-shadow: 0 0 40px #FED34E, 2px 2px 3px black; }.light .ut-video-loading { color:#FED34E !important; }.light .ut-video-loading { text-shadow: 0 0 40px #FED34E, 2px 2px 3px black; }.light .ut-video-caption-text { border-color:rgba(254,211,78, 1); }.js #main-content section .section-content,.js #main-content section .section-header-holder {opacity:0;}#navigation { font-family: "ralewaysemibold", Helvetica, Arial, sans-serif !important; }#navigation li a:hover { color:#FED34E; }#navigation .selected, #navigation ul li.current_page_parent a.active, #navigation ul li.current-menu-ancestor a.active { color: #FED34E; }#navigation ul li a:hover,#navigation ul.sub-menu li a:hover { color: #FED34E; }#navigation ul.sub-menu li > a { color: #999999; }#navigation ul li.current-menu-item:not(.current_page_parent) a, #navigation ul li.current_page_item:not(.current_page_parent) a { color: #FED34E; }#navigation ul li.current-menu-item:not(.current_page_parent) .sub-menu li a { color: #999999; }.ut-header-dark #navigation li a:hover { color:#FED34E; }.ut-header-dark #navigation .selected,.ut-header-dark #navigation ul li.current_page_parent a.active, .ut-header-dark #navigation ul li.current-menu-ancestor a.active { color: #FED34E; }.ut-header-dark #navigation ul li a:hover,.ut-header-dark #navigation ul.sub-menu li a:hover { color: #FED34E; }.ut-header-dark #navigation ul.sub-menu li > a { color: #999999; }.ut-header-dark #navigation ul li.current-menu-item:not(.current_page_parent) a, .ut-header-dark #navigation ul li.current_page_item:not(.current_page_parent) a { color: #FED34E; }.ut-header-dark #navigation ul li.current-menu-item:not(.current_page_parent) .sub-menu li a { color: #999999; }.ut-loader-overlay { background: #000000}.hero-title span:not(.ut-word-rotator) { color:#FED34E !important; }.hero-title.ut-glow span { text-shadow: 0 0 40px #FED34E, 2px 2px 3px black; }body { font-family: ralewaymedium, "Helvetica Neue", Helvetica, Arial, sans-serif; }h1 { font-family: ralewaylight, "Helvetica Neue", Helvetica, Arial, sans-serif; }h2 { font-family: ralewaylight, "Helvetica Neue", Helvetica, Arial, sans-serif; }h3 { font-family: ralewaylight, "Helvetica Neue", Helvetica, Arial, sans-serif; }h4 { font-family: ralewaylight, "Helvetica Neue", Helvetica, Arial, sans-serif; }h5 { font-family: ralewaylight, "Helvetica Neue", Helvetica, Arial, sans-serif; }h6 { font-family: ralewaylight, "Helvetica Neue", Helvetica, Arial, sans-serif; }.page-title{ font-family: ralewaylight, "Helvetica Neue", Helvetica, Arial, sans-serif; }.hero-title { font-family: ralewaysemibold, "Helvetica Neue", Helvetica, Arial, sans-serif; }#contact-section .parallax-title span span { color:#FED34E; }#contact-section { background: #000000; }#contact-section .parallax-overlay { background: rgb(0,0,0,1); }#contact-section .parallax-overlay { background: rgba(0,0,0,1); }#contact-section { padding-top:30px; padding-bottom:120px; }#contact-section .ut-offset-anchor { top:-109px; }blockquote { font-family: ralewaylight, "Helvetica Neue", Helvetica, Arial, sans-serif; }.lead, .taxonomy-description { font-family: ralewaylight, "Helvetica Neue", Helvetica, Arial, sans-serif; }#ut-loader-logo { background-image: url(http://www.26brewing.com/wp-content/uploads/2017/08/Pompano-Pale-Ale-Pop-Up.png); background-position: center center; background-repeat: no-repeat; }.parallax-overlay-pattern.style_one { background-image: url(" http://www.26brewing.com/wp-content/themes/brooklyn/images/overlay-pattern.png") !important; }.parallax-overlay-pattern.style_two { background-image: url(" http://www.26brewing.com/wp-content/themes/brooklyn/images/overlay-pattern2.png") !important; }.copyright { display: none !important; }</style><meta name="generator" content="Powered by Slider Revolution 5.4.8.3 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+
+<!-- BEGIN ExactMetrics v5.3.7 Universal Analytics - https://exactmetrics.com/ -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-83426978-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- END ExactMetrics Universal Analytics -->
+<script type="text/javascript">function setREVStartSize(e){									
+						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+							if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+						}catch(d){console.log("Failure at Presize of Slider:"+d)}						
+					};</script>
+    
+</head>
+
+
+<body id="ut-sitebody" class="attachment attachment-template-default attachmentid-3657 attachment-jpeg" data-scrolleffect="easeInOutExpo" data-scrollspeed="650">
+
+<a class="ut-offset-anchor" id="top" style="top:0px !important;"></a>
+
+
+
+
+ 
+
+
+
+<!-- header section -->
+<header id="header-section" class="ha-header centered ut-header-dark ">
+    
+        
+    <div class="grid-container">
+    
+		
+        
+        <div class="ha-header-perspective">
+        	<div class="ha-header-front">
+            	
+                <div class="grid-20 tablet-grid-50 mobile-grid-50 ">
+                
+					                        
+                                                
+                        <div class="site-logo">
+                            <a href="http://www.26brewing.com/" title="26º Brewing Company" rel="home"><img data-altlogo="http://www.26brewing.com/wp-content/uploads/2015/09/26degrees-logo-60.png" src="http://www.26brewing.com/wp-content/uploads/2015/09/26degrees-logo-60.png" alt="26º Brewing Company"></a>
+                        </div>
+                        
+                                 	
+                
+                </div>    
+                
+                                
+                
+                                	
+					<nav id="navigation" class="grid-80 hide-on-tablet hide-on-mobile "><ul id="menu-main" class="menu"><li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children external"><a href="http://www.26brewing.com/" class="external">Home</a>
+<ul class="sub-menu">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page external"><a href="http://www.26brewing.com/#section-our-mission-two" class="external">Our Mission</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children external"><a href="http://www.26brewing.com/#section-brewery" class="external">Brewery</a>
+<ul class="sub-menu">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page external"><a href="http://www.26brewing.com/#section-virtual-brewery-tour" class="external">Virtual Brewery Tour</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children external"><a href="http://www.26brewing.com/#section-whats-on-tap-two" class="external">What&#8217;s on Tap?</a>
+<ul class="sub-menu">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page external"><a href="http://www.26brewing.com/#section-craft-beer" class="external">Our Craft Beers</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page external"><a href="http://www.26brewing.com/#section-cheers" class="external">Cheers!</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children external"><a href="http://www.26brewing.com/#section-events" class="external">Events</a>
+<ul class="sub-menu">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page external"><a href="http://www.26brewing.com/calendar-of-events/" class="external">Events Calendar</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-post external"><a href="http://www.26brewing.com/#section-st-paddys-day-shit-show-twozerooneeight" class="external">St. Paddy&#8217;s Day $H!T SHOW 2018</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-post external"><a href="http://www.26brewing.com/no-bull-brunch-sundays-26-brewing-2/" class="external">No Bull Brunch Sundays at 26° Brewing</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-post external"><a href="http://www.26brewing.com/yoga-brewery-every-first-third-sunday-wednesday/" class="external">Yoga at the Brewery | Every 1st and 3rd Sunday AND 2nd and 4th Wednesday</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page external"><a href="http://www.26brewing.com/open-mic-mondays-perfect-cure-monday-blues/" class="external">Taproom | Open Mic &#8211; 3rd Monday of the Month</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-post external"><a href="http://www.26brewing.com/yoga-brewery-first-sunday-every-month/" class="external">Taproom | Yoga at the Brewery &#8211; 1st and 3rd Sunday of the Month</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children external"><a href="http://www.26brewing.com/#section-past-events" class="external">Past Events</a>
+	<ul class="sub-menu">
+		<li  class="menu-item menu-item-type-post_type menu-item-object-post external"><a href="http://www.26brewing.com/big-barrel-aged-beer-bonanza/" class="external">Taproom | Big Barrel Aged Beer Bonanza!</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-post external"><a href="http://www.26brewing.com/football-funday-halftime-raffles/" class="external">Taproom | Football Funday!</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-post external"><a href="http://www.26brewing.com/#section-cerveja-central-brazilian-fest-twozerooneseven" class="external">Taproom | Cerveja Central</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-post external"><a href="http://www.26brewing.com/#section-cirque-du-craft-beer-twond-anniversary-party" class="external">Taroom | Cirque du Craft Beer – 2nd Anniversary Party</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-post external"><a href="http://www.26brewing.com/#section-labeer-day-weekend-twosix-brewing" class="external">Taproom | Labeer Day Weekend</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-post external"><a href="http://www.26brewing.com/hold-fantasy-football-draft-place-access-unlimited-beer/" class="external">Taproom | Fantasy Football</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page external"><a href="http://www.26brewing.com/summerdaze/" class="external">Taproom | Summer Daze of IPAs</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-post external"><a href="http://www.26brewing.com/zikos-rage-turning-2-birthday-bash/" class="external">Bottle Release | Ziko&#8217;s Rage is Turning 2</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-post external"><a href="http://www.26brewing.com/let-freedom-pour-weekend-long/" class="external">Taproom | Let Freedom Pour</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-post external"><a href="http://www.26brewing.com/bottle-release-citrus-a1a-limited-release/" class="external">Bottle Release | Citrus A1A Limited Release</a></li>
+		<li  class="menu-item menu-item-type-custom menu-item-object-custom external"><a href="http://www.26brewing.com/category/2017/" class="external">2017 &#8211; January &#8211; June</a></li>
+		<li  class="menu-item menu-item-type-custom menu-item-object-custom external"><a href="http://www.26brewing.com/category/2016/" class="external">2016</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page external"><a href="http://www.26brewing.com/blog/" class="external">Brew News</a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children external"><a href="http://www.26brewing.com/#section-tasting-room" class="external">Taproom</a>
+<ul class="sub-menu">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page external"><a href="http://www.26brewing.com/#section-cheers" class="external">Cheers!</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page external"><a href="http://www.26brewing.com/#section-facebook" class="external">Let&#8217;s Get Social</a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page external"><a href="http://www.26brewing.com/#section-google-maps" class="external">Contact</a></li>
+</ul></nav>                    
+                    <div class="ut-mm-trigger tablet-grid-50 mobile-grid-50 hide-on-desktop">
+                    	<button class="ut-mm-button"></button>
+                    </div>
+                    
+					<nav id="ut-mobile-nav" class="ut-mobile-menu mobile-grid-100 tablet-grid-100 hide-on-desktop"><div class="ut-scroll-pane"><ul id="ut-mobile-menu" class="ut-mobile-menu"><li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children external"><a href="http://www.26brewing.com/" class="external">Home</a>
+<ul class="sub-menu">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page external"><a href="http://www.26brewing.com/#section-our-mission-two" class="external">Our Mission</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children external"><a href="http://www.26brewing.com/#section-brewery" class="external">Brewery</a>
+<ul class="sub-menu">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page external"><a href="http://www.26brewing.com/#section-virtual-brewery-tour" class="external">Virtual Brewery Tour</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children external"><a href="http://www.26brewing.com/#section-whats-on-tap-two" class="external">What&#8217;s on Tap?</a>
+<ul class="sub-menu">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page external"><a href="http://www.26brewing.com/#section-craft-beer" class="external">Our Craft Beers</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page external"><a href="http://www.26brewing.com/#section-cheers" class="external">Cheers!</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children external"><a href="http://www.26brewing.com/#section-events" class="external">Events</a>
+<ul class="sub-menu">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page external"><a href="http://www.26brewing.com/calendar-of-events/" class="external">Events Calendar</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-post external"><a href="http://www.26brewing.com/#section-st-paddys-day-shit-show-twozerooneeight" class="external">St. Paddy&#8217;s Day $H!T SHOW 2018</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-post external"><a href="http://www.26brewing.com/no-bull-brunch-sundays-26-brewing-2/" class="external">No Bull Brunch Sundays at 26° Brewing</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-post external"><a href="http://www.26brewing.com/yoga-brewery-every-first-third-sunday-wednesday/" class="external">Yoga at the Brewery | Every 1st and 3rd Sunday AND 2nd and 4th Wednesday</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page external"><a href="http://www.26brewing.com/open-mic-mondays-perfect-cure-monday-blues/" class="external">Taproom | Open Mic &#8211; 3rd Monday of the Month</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-post external"><a href="http://www.26brewing.com/yoga-brewery-first-sunday-every-month/" class="external">Taproom | Yoga at the Brewery &#8211; 1st and 3rd Sunday of the Month</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children external"><a href="http://www.26brewing.com/#section-past-events" class="external">Past Events</a>
+	<ul class="sub-menu">
+		<li  class="menu-item menu-item-type-post_type menu-item-object-post external"><a href="http://www.26brewing.com/big-barrel-aged-beer-bonanza/" class="external">Taproom | Big Barrel Aged Beer Bonanza!</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-post external"><a href="http://www.26brewing.com/football-funday-halftime-raffles/" class="external">Taproom | Football Funday!</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-post external"><a href="http://www.26brewing.com/#section-cerveja-central-brazilian-fest-twozerooneseven" class="external">Taproom | Cerveja Central</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-post external"><a href="http://www.26brewing.com/#section-cirque-du-craft-beer-twond-anniversary-party" class="external">Taroom | Cirque du Craft Beer – 2nd Anniversary Party</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-post external"><a href="http://www.26brewing.com/#section-labeer-day-weekend-twosix-brewing" class="external">Taproom | Labeer Day Weekend</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-post external"><a href="http://www.26brewing.com/hold-fantasy-football-draft-place-access-unlimited-beer/" class="external">Taproom | Fantasy Football</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page external"><a href="http://www.26brewing.com/summerdaze/" class="external">Taproom | Summer Daze of IPAs</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-post external"><a href="http://www.26brewing.com/zikos-rage-turning-2-birthday-bash/" class="external">Bottle Release | Ziko&#8217;s Rage is Turning 2</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-post external"><a href="http://www.26brewing.com/let-freedom-pour-weekend-long/" class="external">Taproom | Let Freedom Pour</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-post external"><a href="http://www.26brewing.com/bottle-release-citrus-a1a-limited-release/" class="external">Bottle Release | Citrus A1A Limited Release</a></li>
+		<li  class="menu-item menu-item-type-custom menu-item-object-custom external"><a href="http://www.26brewing.com/category/2017/" class="external">2017 &#8211; January &#8211; June</a></li>
+		<li  class="menu-item menu-item-type-custom menu-item-object-custom external"><a href="http://www.26brewing.com/category/2016/" class="external">2016</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page external"><a href="http://www.26brewing.com/blog/" class="external">Brew News</a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children external"><a href="http://www.26brewing.com/#section-tasting-room" class="external">Taproom</a>
+<ul class="sub-menu">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page external"><a href="http://www.26brewing.com/#section-cheers" class="external">Cheers!</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page external"><a href="http://www.26brewing.com/#section-facebook" class="external">Let&#8217;s Get Social</a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page external"><a href="http://www.26brewing.com/#section-google-maps" class="external">Contact</a></li>
+</ul></div></nav>                                        
+                                                                        
+                </div>
+            </div><!-- close .ha-header-perspective -->
+    
+	        
+	
+    </div> 
+    
+        
+</header><!-- close header -->
+
+<div class="clear"></div>
+
+       
+
+
+<div id="main-content" class="wrap ha-waypoint" data-animate-up="ha-header-hide" data-animate-down="ha-header-small">
+	
+    <a class="ut-offset-anchor" id="to-main-content"></a>
+		
+        <div class="main-content-background">		
+        <div class="grid-container">
+        	
+                        
+            <div id="primary" class="grid-parent grid-100 tablet-grid-100 mobile-grid-100  ">
+            
+			
+				
+<div id="post-3657" class="post-3657 attachment type-attachment status-inherit hentry">
+    
+        
+    <div class="grid-100 mobile-grid-100 tablet-grid-100">
+    <div class="entry-content clearfix">	
+        <p class="attachment"><a data-rel="prettyPhoto" href='https://i2.wp.com/www.26brewing.com/wp-content/uploads/2016/09/Large-wood-Piece.jpg'><img width="300" height="194" src="https://i2.wp.com/www.26brewing.com/wp-content/uploads/2016/09/Large-wood-Piece.jpg?fit=300%2C194" class="attachment-medium size-medium" alt="" srcset="https://i2.wp.com/www.26brewing.com/wp-content/uploads/2016/09/Large-wood-Piece.jpg?w=1920 1920w, https://i2.wp.com/www.26brewing.com/wp-content/uploads/2016/09/Large-wood-Piece.jpg?resize=300%2C194 300w, https://i2.wp.com/www.26brewing.com/wp-content/uploads/2016/09/Large-wood-Piece.jpg?resize=768%2C498 768w, https://i2.wp.com/www.26brewing.com/wp-content/uploads/2016/09/Large-wood-Piece.jpg?resize=1024%2C663 1024w" sizes="(max-width: 300px) 100vw, 300px" data-attachment-id="3657" data-permalink="http://www.26brewing.com/our-mission-2/crowds-at-the-bar/beer-shields/large-wood-piece/#main" data-orig-file="https://i2.wp.com/www.26brewing.com/wp-content/uploads/2016/09/Large-wood-Piece.jpg?fit=1920%2C1244" data-orig-size="1920,1244" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="large-wood-piece" data-image-description="" data-medium-file="https://i2.wp.com/www.26brewing.com/wp-content/uploads/2016/09/Large-wood-Piece.jpg?fit=300%2C194" data-large-file="https://i2.wp.com/www.26brewing.com/wp-content/uploads/2016/09/Large-wood-Piece.jpg?fit=1024%2C663" /></a></p>
+<div class="brookly-hatom-data" style="display:none;visibility:hidden;"><span class="entry-title">large-wood-piece</span><span class="updated"> September 27th, 2016</span><span class="author vcard"><span class="fn">Michael</span></span></div>            			         		          
+    </div><!-- .entry-content -->
+    </div>
+</div><!-- #post -->			
+				
+						
+            </div><!-- close #primary -->
+            
+            
+            
+		</div><!-- close grid-container -->
+        
+        <div class="ut-scroll-up-waypoint" data-section="section-large-wood-piece"></div>
+        
+    </div><!-- close main-content-background -->
+        
+    <div class="clear"></div>
+        
+               
+        
+        
+    <section id="contact-section" data-effect="fadeIn" class="animated contact-section  light  ">   		
+    
+    <a class="ut-offset-anchor" id="section-contact"></a> 
+        
+                
+                
+                
+        <div class="grid-container parallax-content">
+        	
+                        
+            <!-- parallax header -->
+            <div class="grid-70 prefix-15 mobile-grid-100 tablet-grid-100">
+                <header class="parallax-header pt-style-2">
+                    
+                                        	<h2 class="parallax-title"><span>Craft Beer <span> | </span> Local Latitude</span></h2>
+                                        
+                                        
+                </header>
+            </div>
+            <!-- close parallax header -->
+            
+            <div class="clear"></div>
+            
+                    
+        </div>
+        <div class="grid-container section-content">
+            
+            <!-- contact wrap -->
+            <div class="grid-100 mobile-grid-100 tablet-grid-100 grid-parent">
+                <div class="contact-wrap">
+                
+                                        
+                    <!-- contact message -->
+                    <div class="grid-45 suffix-5 mobile-grid-100 tablet-grid-50">
+                        <div class="ut-left-footer-area clearfix">
+                            
+                            <p><img class="size-full wp-image-3285 aligncenter" src="http://www.26brewing.com/wp-content/uploads/2015/09/26degrees-logo-120.png" alt="26degrees-logo-120" width="120" height="120" /></p>
+<h3>We love beer, you love beer.  <br />We want to hear what you have to say.</h3>
+<p>Use the form to the right to share your thoughts, make some requests or inquire on anything your hearts desire.</p>
+<p>When we're done making this next batch of brew, we'll check our email and get right back with you.</p>
+<div class="place-name">26° Brewing Company</div>
+<div class="address">2600 E Atlantic Blvd</div>
+<div class="address">Pompano Beach, FL 33062</div>
+<div class="address">(954) 532-6964</div>
+<div class="address"> </div>
+<div class="address">Hours of Operation:</div>
+<div class="address">Monday - Wednesday | 2 p.m. to 11 p.m.</div>
+<div class="address">Thursday | 2 p.m. to 12 a.m.</div>
+<div class="address">Friday | 2 p.m. to 1 a.m.</div>
+<div class="address">Saturday | 12 p.m. to 1 a.m.</div>
+<div class="address">Sunday | 12 p.m. to 9 p.m.</div>
+<div class="address"> </div>
+<div class="address"><span class="fa-stack ut-custom-icon fa-lg alignnone"><a target="_self" href="https://www.facebook.com/26brewing"><i class="fa fa-square fa-stack-2x" style="color:#222222"></i><i class="fa fa-facebook fa-stack-1x" style="color:#ffffff"></i></a></span>  <span class="fa-stack ut-custom-icon fa-lg alignnone"><a target="_self" href="https://twitter.com/26brewing"><i class="fa fa-square fa-stack-2x" style="color:#222222"></i><i class="fa fa-twitter fa-stack-1x" style="color:#ffffff"></i></a></span>  <span class="fa-stack ut-custom-icon fa-lg alignnone"><a target="_self" href="https://plus.google.com/113857627772443027840/about?hl=en&amp;gl=us"><i class="fa fa-square fa-stack-2x" style="color:#222222"></i><i class="fa fa-google-plus fa-stack-1x" style="color:#ffffff"></i></a></span>  </div>
+<p>&nbsp;</p>
+                            
+                        </div>
+                    </div><!-- close contact message -->
+                    
+                                        
+                                        
+                    <!-- contact form-holder -->
+                    <div class="grid-50 mobile-grid-100 tablet-grid-50">
+                        <div class="ut-right-footer-area clearfix">
+                        	
+                            <p><div role="form" class="wpcf7" id="wpcf7-f32-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/our-mission-2/crowds-at-the-bar/beer-shields/large-wood-piece/#wpcf7-f32-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="32" />
+<input type="hidden" name="_wpcf7_version" value="5.1.1" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f32-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="g-recaptcha-response" value="" />
+</div>
+<p>Your Name (required)<br />
+    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span> </p>
+<p>Your Email (required)<br />
+    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" /></span> </p>
+<p>Your Message<br />
+    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span> </p>
+<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div></p>
+                                
+                        </div>
+                    </div><!-- close contact-form-holder -->
+                	
+                                        
+                    
+                </div>
+            </div><!-- close contact wrap -->
+            
+            
+		</div><!-- close container -->
+        
+                
+	</section>
+    
+    <div class="clear"></div>
+    
+        
+                
+	<!-- Footer Section -->
+    <footer class="footer ut-footer-dark">        
+        
+        
+                
+        
+                
+            <a href="#top" class="toTop"><i class="fa fa-angle-double-up"></i></a>
+    	
+                
+        
+        <div class="footer-content">        
+            
+            <div class="grid-container">
+                
+                <div class="grid-70 prefix-15 mobile-grid-100 tablet-grid-100">
+                
+                    <h3>We <i class="fa fa-heart"></i> Craft Beer.</h3>                        
+                                            
+                    <span class="copyright">
+                        Powered by <a href="http://wordpress.org/" title="A Semantic Personal Publishing Platform" data-rel="generator"> WordPress</a>
+                        Theme: Brooklyn by <a href="http://themeforest.net/item/brooklyn-creative-one-page-multipurpose-theme/6221179?ref=UnitedThemes" data-rel="designer">United Themes</a>                    </span>
+                        
+                </div>
+                    
+            </div><!-- close container -->        
+        </div><!-- close footer content -->
+        
+	</footer><!-- close footer -->
+        
+   		
+    	<div style="display:none">
+	</div>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="http://www.26brewing.com/wp-content/plugins/adults-only/theme/adults-only.css" media="screen"/>
+<link href="http://www.26brewing.com/wp-content/plugins/adults-only/theme/overlay.css" rel="stylesheet" title="overlay" type="text/css" media="screen">
+
+	<style type="text/css">
+		.ao_wrap , .ao_wrap p, .ao_terms p, .ao_terms li {
+			color: #d3d3d3;
+		}
+
+		.ao_content a {
+			color: #ffffff;
+		}
+
+		.ao_content {
+			background: #08070a;
+			border: 1px #fed34e solid;
+		}
+
+			.ao_terms {
+			border: 1px solid #fed34e;
+		}
+		body { background-position: top center; background-repeat: no-repeat; background-attachment: fixed; }.ao_lay {	display: none; } 
+	</style>
+	
+<div id="ao_lay" class="ao_lay">
+	<img src="http://www.26brewing.com/wp-content/uploads/2017/01/Screen-Shot-2016-12-12-at-2.02.47-PM-e1483472057823.png" class="ao_logo" alt="26º Brewing Company - Age Validation"/>	
+	<div class="ao_wrap">
+		<div id="ao_content" class="ao_content">
+		<p style="text-align: center">26º Brewing Company contains content related to beer, brewing beer and other spirited beverages.</p>
+<p style="text-align: center">You must be 21 years or older to enter this page. By going beyond this point, you acknowledge that you are 21 years or older.</p>			<div id="ao_error" class="ao_error">
+						</div>
+			<p class="ao_links"><a href="/our-mission-2/crowds-at-the-bar/beer-shields/large-wood-piece/?ao_confirm" class="ao_agree">
+				Yes</a> <a href="/our-mission-2/crowds-at-the-bar/beer-shields/large-wood-piece/?ao_disagree"  class="ao_disagree">
+				No</a></p>		</div>
+		<div class="ao_footer">
+			© Copyright 26º Brewing Company 2015		</div>
+	</div>
+</div><link rel='stylesheet' id='wp-color-picker-css'  href='http://www.26brewing.com/wp-admin/css/color-picker.min.css?ver=5.3.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.26brewing.com/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20130122'></script>
+<script type='text/javascript' src='http://www.26brewing.com/wp-content/plugins/adults-only/js/jquery.cookie.js?ver=5.3.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/www.26brewing.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.26brewing.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=202008'></script>
+<script type='text/javascript' src='http://www.26brewing.com/wp-content/plugins/tiva-facebook-events-calendar/assets/js/calendar.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.26brewing.com/wp-content/plugins/ut-portfolio/assets/js/plugins/prettyphoto/jquery.prettyPhoto.min.js?ver=3.1.5'></script>
+<script type='text/javascript' src='http://www.26brewing.com/wp-content/plugins/ut-portfolio/assets/js/jquery.scrollTo.min.js?ver=1.4.6'></script>
+<script type='text/javascript' src='http://www.26brewing.com/wp-content/plugins/ut-shortcodes/js/tabs.collapse.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.26brewing.com/wp-content/plugins/ut-shortcodes/js/jquery.visible.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.26brewing.com/wp-content/plugins/ut-shortcodes/js/jquery.appear.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.26brewing.com/wp-content/plugins/ut-shortcodes/js/jquery.fitvids.js?ver=1.0.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var utShortcode = {"ajaxurl":"http:\/\/www.26brewing.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.26brewing.com/wp-content/plugins/ut-shortcodes/js/ut.scplugin.js?ver=1.0'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2020Febaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.26brewing.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=5.3.2'></script>
+<script type='text/javascript' src='http://www.26brewing.com/wp-content/themes/brooklyn/js/toucheffects.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.26brewing.com/wp-content/themes/brooklyn/js/jquery.easing.min.js?ver=1.3'></script>
+<script type='text/javascript' src='http://www.26brewing.com/wp-content/themes/brooklyn/js/superfish.min.js?ver=1.7.4'></script>
+<script type='text/javascript' src='http://www.26brewing.com/wp-content/themes/brooklyn/js/retina.min.js?ver=1.1'></script>
+<script type='text/javascript' src='http://www.26brewing.com/wp-content/themes/brooklyn/js/jquery.parallax.min.js?ver=1.1.3'></script>
+<script type='text/javascript' src='http://www.26brewing.com/wp-content/themes/brooklyn/js/jquery.waypoints.min.js?ver=2.0.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var retina_logos = {"sitelogo_retina":"http:\/\/www.26brewing.com\/wp-content\/uploads\/2015\/09\/26degrees-logo-120.png","alternate_logo_retina":"http:\/\/www.26brewing.com\/wp-content\/uploads\/2015\/09\/26degrees-logo-120.png"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.26brewing.com/wp-content/themes/brooklyn-child/js/ut-init.js?ver=2.8.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"http:\/\/www.26brewing.com\/wp-admin\/admin-ajax.php","nonce":"51344bc62c","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"0","login_url":"http:\/\/www.26brewing.com\/wp-login.php?redirect_to=http%3A%2F%2Fwww.26brewing.com%2Four-mission-2%2Fcrowds-at-the-bar%2Fbeer-shields%2Flarge-wood-piece%2F%23main","blog_id":"1","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"local_comments_commenting_as":"<fieldset><label for=\"email\">Email<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.26brewing.com/wp-content/plugins/jetpack/_inc/build/carousel/jetpack-carousel.min.js?ver=20190102'></script>
+<script type='text/javascript' src='http://www.26brewing.com/wp-includes/js/wp-embed.min.js?ver=5.3.2'></script>
+	<script>
+		jQuery(function($){
+			if($.cookie('wp_aoavsua' ) != null){
+				underage = true;
+			}
+
+			// check if either of the age cookies have been set
+			if($.cookie('wp_aoavsv' ) != null && typeof underage == 'undefined') {
+
+				// Check if user is age appropriate
+				// We don't make use of adults_only_workout_minimum_age() here because we don't want the geo minimum age to be cashed.
+				if($.cookie('wp_aoavsv' ) >= 21){
+					$('link[title=overlay]' ).remove();
+					$('.ao_lay').remove();
+				}else{
+					var underage = true;
+				}
+			} else {
+								$('img:not(.ao_lay img)').remove();
+								$('.ao_lay').show();
+			}
+
+			if(underage == true){
+				$('#ao_content' ).html('<h1>Sorry!</h1><p>You\'re not old enough to visit this website. If you feel that this is a mistake please send an email to: <a href=\"mailto:beer@26brewing.com\">beer@26brewing.com</a></p>' );
+
+			}
+		} );
+	</script>
+	<script type='text/javascript' src='https://stats.wp.com/e-202008.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:7.1.1',blog:'117038980',post:'3657',tz:'-5',srv:'www.26brewing.com'} ]);
+	_stq.push([ 'clickTrackerInit', '117038980', '3657' ]);
+</script>
+    
+    
+	<script type="text/javascript">
+    /* <![CDATA[ */        
+        
+		(function($){
+        	
+				"use strict";
+		
+				$(document).ready(function(){ var brooklyn_scroll_offset = $("#header-section").outerHeight();window.matchMedia||(window.matchMedia=function(){var c=window.styleMedia||window.media;if(!c){var a=document.createElement("style"),d=document.getElementsByTagName("script")[0],e=null;a.type="text/css";a.id="matchmediajs-test";d.parentNode.insertBefore(a,d);e="getComputedStyle"in window&&window.getComputedStyle(a,null)||a.currentStyle;c={matchMedium:function(b){b="@media "+b+"{ #matchmediajs-test { width: 1px; } }";a.styleSheet?a.styleSheet.cssText=b:a.textContent=b;return"1px"===e.width}}}return function(a){return{matches:c.matchMedium(a|| "all"),media:a||"all"}}}());var ut_modern_media_query = window.matchMedia( "screen and (-webkit-min-device-pixel-ratio:2)");if( ut_modern_media_query.matches ) {
+                        
+                        var $logo = $(".site-logo img");
+                        $logo.attr("src" , retina_logos.sitelogo_retina );
+                                        
+                    
+                    }if( ut_modern_media_query.matches ) {
+                        
+                        var $logo = $(".site-logo img");
+                        $logo.data("altlogo" , retina_logos.alternate_logo_retina );        
+                            
+                      
+                      }
+				$(window).load(function() {
+					
+					function show_slogan() {
+						$(".hero-holder").animate({ opacity : 1 });
+					}
+								
+					var execute_slogan = setTimeout ( show_slogan , 800 );
+					
+				});
+                        $(".cta-btn a").click( function(event) { 
+                    
+                            if(this.hash) {
+                                $.scrollTo( this.hash , 650, { easing: "easeInOutExpo" , offset: -brooklyn_scroll_offset-1 , "axis":"y" } );			
+                                event.preventDefault();				
+                            }
+                            
+                        });				
+                    $(".parallax-banner").addClass("fixed").each(function() {                
+						$(this).parallax( "50%", 0.6 ); 
+					});$("section").each(function() {
+															
+							var outerHeight = $(this).outerHeight(),
+								offset		= "90%",
+								effect		= $(this).data("effect");
+							
+							if( outerHeight > $(window).height() / 2 ) {
+								offset = "70%";
+							}
+							
+                            $(this).waypoint("destroy");
+							$(this).waypoint( function( direction ) {
+								
+								var $this = $(this);
+												
+								if( direction === "down" && !$(this).hasClass( effect ) ) {
+									
+									$this.find(".section-content").animate( { opacity: 1 } , 1600 );
+									$this.find(".section-header-holder").animate( { opacity: 1 } , 1600 );
+										
+								}
+								
+							} , { offset: offset } );			
+								
+						});
+                        
+                        $(window).load(function(){
+                            $(window).trigger("resize");
+                        });});
+			
+        })(jQuery); 
+		
+		          
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-83426978-1', 'auto');
+          ga('send', 'pageview');
+		  
+				     
+     /* ]]> */
+    </script>    
+    
+    </div><!-- close #main-content -->
+    
+        
+                        
+    </body>
+</html>

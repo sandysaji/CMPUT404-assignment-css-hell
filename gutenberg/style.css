@@ -1,0 +1,33 @@
+body { color: Black;
+    background: #FAFAD2;
+    margin-right: 15%;
+    margin-left: 15%;
+    text-align: justify }
+
+p {text-indent: 3%;
+margin-top: 0.25em;
+margin-bottom: 0.25em;
+font-family: "Apple Chancery", cursive; }
+
+h1, h2, h3, h4, h5, h6 {text-align: center; font-style: normal;
+font-weight: bold; line-height: 1.5; margin-top: .5em; margin-bottom:
+.5em;font-family: "Georgia", serif;}
+
+h1 {font-size: 200%;}
+h2 {font-size: 175%;}
+h3 {font-size: 150%;}
+h4 {font-size: 120%;}
+
+img{
+width:100%;
+border:3px solid black;
+}
+
+figcaption{
+  font-weight: normal;
+  font-family: "Apple Chancery", cursive;
+}
+
+a:link {color:blue; text-decoration:none}
+a:visited {color:blue; text-decoration:none}
+a:hover {color:red}
