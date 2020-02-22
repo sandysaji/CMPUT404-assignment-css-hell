@@ -22,12 +22,12 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
-### H3 Modifications for Part I:
-- removed css styles from html pages and used one css page for all.
-- added cursive font family, normal font weight and updated margins for paragraph tags.
-- added Gerogia font family, bold font weight and updated margins for header tags.
-- added black borders for all images 
-- used cursive font for image capions.
+### Modifications for Part I:
+- Removed css styles from html pages and used one css page for all.
+- Added cursive font family, normal font weight and updated margins for paragraph tags.
+- Added Gerogia font family, bold font weight and updated margins for header tags.
+- Added black borders for all images 
+- Used cursive font for image capions.
 - Used a yellowish background for all the pages.
 
 
